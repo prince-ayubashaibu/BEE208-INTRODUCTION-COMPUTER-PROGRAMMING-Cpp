@@ -11,3 +11,5 @@ int main() {
         cout << "Second value is greater";
     return 0;
 }
+<img width="1366" height="768" alt="Screenshot 2026-06-18 224136" src="https://github.com/user-attachments/assets/ef0d0db3-9cdc-45ac-bfaf-6d7b75811978" />
+<img width="1366" height="768" alt="Screenshot 2026-06-18 224220" src="https://github.com/user-attachments/assets/b22d4f48-ce77-4d97-8a62-deb267a1258b" />
